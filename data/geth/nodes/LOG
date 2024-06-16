@@ -1,0 +1,6 @@
+=============== Jun 16, 2024 (MSK) ===============
+12:24:24.940705 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:24:24.945947 db@open opening
+12:24:24.948542 version@stat F·[] S·0B[] Sc·[]
+12:24:24.951200 db@janitor F·2 G·0
+12:24:24.951200 db@open done T·5.2534ms
